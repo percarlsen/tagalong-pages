@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S82B9C278U.com.example.tagalongalong",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
